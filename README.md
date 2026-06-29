@@ -78,6 +78,7 @@
 
 این پنل توسط ماکان نوشته شده و من فقط آن را توسعه داده ام:
 
-* ⚙️ **سازنده اصلی پنل زئوس:** [Macan-dev](https://github.com/macan-dev/EasySNI) (پشتیبانی: [@EzAccess1](https://t.me/EzAccess1))
-* 🏗 **توسعه‌دهنده سیستم دیپلوی خودکار و ارتقاءدهنده امکانات پنل:** [IR_NETLIFY](https://t.me/IR_NETLIFY)
+* ⚙️ **سازنده اصلی پنل زئوس:** [Macan-dev](https://github.com/macan-dev/EasySNI) (پشتیبانی: [@Eagle_amir1]
+* ](https://t.me/EzAccess1))
+* 🏗 **توسعه‌دهنده سیستم دیپلوی خودکار و ارتقاءدهنده امکانات پنل:** [@Eagle_amir1](https://t.me/Eaglevip_VPN)
 
