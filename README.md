@@ -3,22 +3,22 @@
 
 
   <img width="100%" alt="Zeus Panel Dark Mode" 
-       src="https://raw.githubusercontent.com/IR-NETLIFY/zeus/refs/heads/main/photos/dark.png" 
+       src="https://raw.githubusercontent.com/zeus/refs/heads/main/photos/dark.png" 
        style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); margin-bottom: 15px;" />
        
 
   <img width="100%" alt="Zeus Panel Dark Mode" 
-       src="https://raw.githubusercontent.com/IR-NETLIFY/zeus/refs/heads/main/photos/status.png" 
+       src="https://raw.githubusercontent.com/zeus/refs/heads/main/photos/status.png" 
        style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); margin-bottom: 15px;" />
        
 ---
   <img width="100%" alt="Zeus Panel Interface" 
-       src="https://raw.githubusercontent.com/IR-NETLIFY/zeus/refs/heads/main/photos/deployer.png" 
+       src="https://raw.githubusercontent.com/zeus/refs/heads/main/photos/deployer.png" 
        style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); margin-bottom: 15px;" />
        
 
   <img width="100%" alt="Zeus Panel Status" 
-       src="https://raw.githubusercontent.com/IR-NETLIFY/zeus/refs/heads/main/photos/updater.png" 
+       src=
        style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); margin-bottom: 15px;" />
        
 ---
@@ -27,14 +27,14 @@
   <h1>⚡ پنل زئوس کلودفلر (Zeus Panel)</h1>
   
   <p>
-    <a href="https://github.com/IR-NETLIFY/zeus">
+    
       <img src="https://img.shields.io/badge/Version-1.4.8-0052CC?style=for-the-badge&logo=semver&logoColor=white" alt="Version">
     </a>
     <a href="https://cloudflare.com">
       <img src="https://img.shields.io/badge/Platform-Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Platform">
     </a>
-    <a href="https://t.me/IR_NETLIFY">
-      <img src="https://img.shields.io/badge/Developer-IR__NETLIFY-00792D?style=for-the-badge&logo=telegram&logoColor=white" alt="Developer">
+    <>
+      <img src=">
     </a>
   </p>
 </div>
@@ -119,7 +119,4 @@
 ## ⚖️ حق نشر و اعتبارات
 
 
-این پنل توسط ماکان نوشته شده و من فقط آن را توسعه داده ام
 
-* **سازنده اولیه:** نسخه پایه پروژه ([EasySNI](https://github.com/macan-dev/EasySNI)) توسط  ([EzAccess1](https://t.me/EzAccess1)) ایجاد شده است.
-* **توسعه‌دهنده فعلی:** ارتقاء پنل، افزودن قابلیت‌های پیشرفته، توسعه رابط کاربری جدید و پیاده‌سازی سیستم دیپلوی خودکار توسط  ([IR_NETLIFY](https://t.me/IR_NETLIFY)) انجام شده است.
